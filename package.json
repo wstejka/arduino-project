@@ -2,9 +2,9 @@
   "name": "arduino-project",
   "version": "1.0.0",
   "description": "Moving objects counting",
-  "main": "index.js",
+  "main": "arduino-project.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node arduino-project.js"
   },
   "repository": {
     "type": "git",
